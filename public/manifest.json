@@ -1,0 +1,23 @@
+{
+  "name": "On-Road Vehicle Breakdown Assistance",
+  "short_name": "ORVBA",
+  "description": "India's trusted partner for roadside assistance and automotive solutions",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#1d4ed8",
+  "icons": [
+    {
+      "src": "/icons/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icons/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
+
